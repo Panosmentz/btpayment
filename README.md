@@ -8,3 +8,10 @@ To run the project:
 6. Run `npm install` to install the front end dependencies
 7. Go back to the root folder (`cd ..`)
 8. Run `npm run dev` to run the app in development mode
+
+
+For the config.env file : 
+
+BRAINTREE_MERCHANT_ID=<insert_braintree_merchant_id_here>\
+BRAINTREE_PUBLIC_KEY=<insert_braintree_public_key_here>\
+BRAINTREE_PRIVATE_KEY=<insert_braintree_private_key_here>
